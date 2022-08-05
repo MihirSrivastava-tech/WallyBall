@@ -1,0 +1,15 @@
+title=WallBall
+author=MihirSrivastava
+orientation=portrait
+version=1.0
+requirements=plyer,kivy,kivmob,jnius,android
+fullscreen=0
+android.permissions=android.hardware.sensor.accelerometer,INTERNET,ACCESS_NETWORK_STATE
+android.api = 27
+android.minapi = 21
+android.sdk = 24
+android.ndk = 17b
+#android.gradle_dependencies = 'com.google.firebase:firebase-ads:10.2.0'
+p4a.branch = master
+# For test ads, use application ID ca-app-pub-3940256099942544~3347511713
+#android.meta_data = com.google.android.gms.ads.APPLICATION_ID='ca-app-pub-3940256099942544~3347511713'
